@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Top 10 CI-CD Security Risks
+title: OWASP Top 10 CI/CD Security Risks
 tags: example-tag
 level: 2
 type: 
