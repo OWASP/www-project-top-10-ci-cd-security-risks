@@ -1,15 +1,16 @@
 ### Top 10 CI-CD Security Risks Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+[![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
+![Documentation Project][doc-proj-logo]
+
+[![Builders][builders-logo]][builders]
+[![Breakers][breakers-logo]][breakers]
+[![Defenders][defenders-logo]][defenders]
 
 ### Downloads or Social Links
 * [Download](#)
 
 ### Code Repository
-* [repo](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/blob/main/index.md)
+* [GitHub](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/blob/main/index.md)
 
 ### Top 10 CI/CD Security Risks
 - [Return to homepage](/www-project-top-10-ci-cd-security-risks)
