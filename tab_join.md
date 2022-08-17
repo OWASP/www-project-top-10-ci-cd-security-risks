@@ -2,11 +2,11 @@
 title: Join
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: join
 ---
 
-# Get Involved
+## Get Involved
 
 Get involved in <strong> OWASP Top 10 CI/CD Security Risks</strong>\!
 
