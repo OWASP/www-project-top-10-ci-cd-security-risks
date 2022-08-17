@@ -8,7 +8,7 @@ type: documentation
 pitch: Top 10 security risks in CI/CD environments.
 
 ---
-![alt_text](assets/images/risks.png "image_tooltip")
+![alt_text](assets/images/risks.png)
 # Introduction
 
 CI/CD environments, processes, and systems are the beating heart of any modern software organization. They deliver code from an engineer’s workstation to production. Combined with the rise of the DevOps discipline and microservice architectures, CI/CD systems and processes have reshaped the engineering ecosystem:
