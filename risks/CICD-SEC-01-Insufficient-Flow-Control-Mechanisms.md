@@ -4,8 +4,6 @@ layout: col-sidebar
 title: "CICD-SEC-1: Insufficient Flow Control Mechanisms"
 
 ---
-
-# CICD-SEC-1: Insufficient Flow Control Mechanisms
 ## Definition
 
 Insufficient flow control mechanisms refer to the ability of an attacker that has obtained permissions to a system within the CI/CD process (SCM, CI, Artifact repository, etc.) to single handedly push malicious code or artifacts down the pipeline, due to a lack in mechanisms that enforce additional approval or review.
