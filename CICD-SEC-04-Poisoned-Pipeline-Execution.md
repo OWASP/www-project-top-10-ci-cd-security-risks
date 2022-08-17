@@ -73,7 +73,7 @@ jobs:
          echo "deploying..."
 ```
 
-![alt_text](/assets/images/dppe.jpg "image_tooltip")
+![alt_text](assets/images/dppe.jpg)
 
 
 In this scenario, a D-PPE attack would be carried out as follows:
@@ -146,7 +146,7 @@ clean:
    echo "cleaning…"
 ```
 
-![alt_text](/assets/images/ippe.jpg "image_tooltip")
+![alt_text](assets/images/ippe.jpg)
 
 In this scenario, an I-PPE attack would be carried out as follows:
 
