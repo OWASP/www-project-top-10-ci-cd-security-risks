@@ -24,3 +24,13 @@
 - [CICD-SEC-8: Ungoverned Usage of 3rd Party Services](CICD-SEC-08-Ungoverned-Usage-of-3rd-Party-Services)
 - [CICD-SEC-9: Improper Artifact Integrity Validation](CICD-SEC-09-Improper-Artifact-Integrity-Validation)
 - [CICD-SEC-10: Insufficient Logging and Visibility](CICD-SEC-10-Insufficient-Logging-And-Visibility)
+
+[inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
+[inc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_level_incubator.svg?sanitize=true
+[builders]: https://www.owasp.org/index.php/Builders
+[builders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_builders.svg?sanitize=true
+[breakers]: https://www.owasp.org/index.php/Breakers
+[breakers-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_breakers.svg?sanitize=true
+[defenders]: https://www.owasp.org/index.php/Defenders
+[defenders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_defenders.svg?sanitize=true
+[doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
