@@ -33,6 +33,6 @@ tags: supporters
 | [Hiroki Suezawa](https://twitter.com/rung) (Security Engineer @ Mercari, inc.) |
 | Tyler Welton (Principal Security Engineer @ Built Technologies, Owner @ Untamed Theory) |
 | Tyler Young (Head of Security at Relativity) |
-| [Ory Segal](https://twitter.com/orysegal) (Senior Director, Product Management @ Palo Alto Networks) | |
+| [Ory Segal](https://twitter.com/orysegal) (Senior Director, Product Management @ Palo Alto Networks) |
 | Noa Ginzbursky (DevOps Engineer @ Cider Security) |
 | [Asi Greenholts](https://twitter.com/TupleType) (Security Researcher @ Cider Security) |
