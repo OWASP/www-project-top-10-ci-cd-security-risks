@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Top 10 CI/CD Security Risks
+title: "OWASP Top 10 CI/CD Security Risks"
 tags: cicd security top10
 level: 2
 type: documentation

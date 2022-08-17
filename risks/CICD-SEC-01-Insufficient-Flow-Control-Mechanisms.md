@@ -1,3 +1,10 @@
+---
+
+layout: col-sidebar
+title: "CICD-SEC-1: Insufficient Flow Control Mechanisms"
+
+---
+
 # CICD-SEC-1: Insufficient Flow Control Mechanisms
 ## Definition
 
