@@ -81,22 +81,22 @@ The list was compiled on the basis of extensive research and analysis based on t
 
 <span style="text-decoration:underline;">List of the top 10 CI/CD security risks:</span>
 
-[CICD-SEC-1](risks/CICD-SEC-01-Insufficient-Flow-Control-Mechanisms.md): Insufficient Flow Control Mechanisms
+[CICD-SEC-1](risks/CICD-SEC-01-Insufficient-Flow-Control-Mechanisms): Insufficient Flow Control Mechanisms
 
-[CICD-SEC-2](Risks/CICD-SEC-02-Inadequate-Identity-And-Access-Management.md): Inadequate Identity and Access Management
+[CICD-SEC-2](risks/CICD-SEC-02-Inadequate-Identity-And-Access-Management.md): Inadequate Identity and Access Management
 
-[CICD-SEC-3](Risks/CICD-SEC-03-Dependency-Chain-Abuse.md): Dependency Chain Abuse
+[CICD-SEC-3](risks/CICD-SEC-03-Dependency-Chain-Abuse.md): Dependency Chain Abuse
 
-[CICD-SEC-4](Risks/CICD-SEC-04-Poisoned-Pipeline-Execution.md): Poisoned Pipeline Execution (PPE)
+[CICD-SEC-4](risks/CICD-SEC-04-Poisoned-Pipeline-Execution.md): Poisoned Pipeline Execution (PPE)
 
-[CICD-SEC-5](Risks/CICD-SEC-05-Insufficient-PBAC.md): Insufficient PBAC (Pipeline-Based Access Controls)
+[CICD-SEC-5](risks/CICD-SEC-05-Insufficient-PBAC.md): Insufficient PBAC (Pipeline-Based Access Controls)
 
-[CICD-SEC-6](Risks/CICD-SEC-06-Insufficient-Credential-Hygiene.md): Insufficient Credential Hygiene
+[CICD-SEC-6](risks/CICD-SEC-06-Insufficient-Credential-Hygiene.md): Insufficient Credential Hygiene
 
-[CICD-SEC-7](Risks/CICD-SEC-07-Insecure-System-Configuration.md): Insecure System Configuration
+[CICD-SEC-7](risks/CICD-SEC-07-Insecure-System-Configuration.md): Insecure System Configuration
 
-[CICD-SEC-8](Risks/CICD-SEC-08-Ungoverned-Usage-of-3rd-Party-Services.md): Ungoverned Usage of 3rd Party Services
+[CICD-SEC-8](risks/CICD-SEC-08-Ungoverned-Usage-of-3rd-Party-Services.md): Ungoverned Usage of 3rd Party Services
 
-[CICD-SEC-9](Risks/CICD-SEC-09-Improper-Artifact-Integrity-Validation.md): Improper Artifact Integrity Validation
+[CICD-SEC-9](risks/CICD-SEC-09-Improper-Artifact-Integrity-Validation.md): Improper Artifact Integrity Validation
 
-[CICD-SEC-10](Risks/CICD-SEC-10-Insufficient-Logging-And-Visibility.md): Insufficient Logging and Visibility
+[CICD-SEC-10](risks/CICD-SEC-10-Insufficient-Logging-And-Visibility.md): Insufficient Logging and Visibility
