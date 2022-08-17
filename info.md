@@ -12,6 +12,7 @@
 * [repo](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/blob/main/index.md)
 
 ### Top 10 CI/CD Security Risks
+- [Return to homepage](..)
 - [CICD-SEC-1: Insufficient Flow Control Mechanisms](CICD-SEC-01-Insufficient-Flow-Control-Mechanisms)
 - [CICD-SEC-2: Inadequate Identity and Access Management](CICD-SEC-02-Inadequate-Identity-And-Access-Management)
 - [CICD-SEC-3: Dependency Chain Abuse](CICD-SEC-03-Dependency-Chain-Abuse)
