@@ -8,14 +8,14 @@ tags: supporters
 
 ## Founders
 
-[Daniel Krivelevich](mailto:daniel@cidersecurity.io) | [Twitter](https://twitter.com/Dkrivelev) | [LinkedIn](https://www.linkedin.com/in/daniel-krivelevich/)
-[Omer Gil](mailto:omer@cidersecurity.io) | [Twitter](https://twitter.com/omer_gil) | [LinkedIn](https://www.linkedin.com/in/omer-gil/)
+[Daniel Krivelevich](mailto:daniel@cidersecurity.io) (Co-Founder & CTO, Cider Security) | [Twitter](https://twitter.com/Dkrivelev) | [LinkedIn](https://www.linkedin.com/in/daniel-krivelevich/)
+[Omer Gil](mailto:omer@cidersecurity.io) (Director Of Research, Cider Security) | [Twitter](https://twitter.com/omer_gil) | [LinkedIn](https://www.linkedin.com/in/omer-gil/)
 
 
 ## Sponsors
 
 [![Cider Security](assets/images/cider_logo.png)](https://www.cidersecurity.io)
-
+<br/>
 ## Contributors
 
 |                                  |
