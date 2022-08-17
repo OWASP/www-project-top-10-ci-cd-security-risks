@@ -83,7 +83,7 @@ The list was compiled on the basis of extensive research and analysis based on t
 
 [CICD-SEC-1](risks/CICD-SEC-01-Insufficient-Flow-Control-Mechanisms): Insufficient Flow Control Mechanisms
 
-[CICD-SEC-2](risks/CICD-SEC-02-Inadequate-Identity-And-Access-Management.md): Inadequate Identity and Access Management
+[CICD-SEC-2](risks/CICD-SEC-02-Inadequate-Identity-And-Access-Management): Inadequate Identity and Access Management
 
 [CICD-SEC-3](risks/CICD-SEC-03-Dependency-Chain-Abuse.md): Dependency Chain Abuse
 
