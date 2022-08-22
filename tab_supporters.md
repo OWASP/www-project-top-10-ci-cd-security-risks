@@ -14,8 +14,10 @@ tags: cicd security top10
 
 ## Sponsors
 
+
 [![Cider Security](assets/images/cider_logo.png)](https://www.cidersecurity.io)
-<br/>
+
+
 ## Contributors
 
 |                                  |
