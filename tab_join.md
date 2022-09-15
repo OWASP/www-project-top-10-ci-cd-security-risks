@@ -17,6 +17,6 @@ Contact the Project Leaders to get involved, we welcome any type of suggestions 
 
 ## GitHub
 
-The project is maintained in the [OWASP Top 10 CI/CD Security Risks](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/) GitHub repository.
+The project is maintained in the [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) GitHub repository.
 
 Feel free to open or solve an issue.
