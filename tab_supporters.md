@@ -1,5 +1,5 @@
 ---
-title: Supporters
+title: Contributors
 layout:  null
 tab: true
 order: 1
