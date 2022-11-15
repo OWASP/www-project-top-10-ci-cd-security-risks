@@ -7,7 +7,7 @@
 [![Defenders][defenders-logo]][defenders]
 
 ### Downloads or Social Links
-* [Download](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/raw/60de3d8ad01e9de8e9a5afc7ec6617b39196f076/assets/OWASP-Top-10-CICD-Security-Risks.pdf)
+* [Download](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/raw/3204d6d181e2a5517ffdcbe208fb536b9cc6c50b/assets/OWASP_Top_10_CICD_Risks.pdf)
 
 ### Code Repository
 * [GitHub](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/blob/main/index.md)
