@@ -26,7 +26,7 @@ Examples of potential hardening flaws:
 * A system with insecure system configurations. Configurations typically determine key security features having to do with authorization, access controls, logging and more. In many cases, the default set of configurations is not secure and requires optimization. 
 * A system with inadequate credential hygiene - for example default credentials which are not disabled, overly permissive programmatic tokens, and more. 
 
-While usage of SAAS CI/CD solutions, rather than their self-hosted alternative, eliminates some of the potential risks associated with system hardening and lateral movement within the network, organizations are still required to be highly diligent in securely configuring their SAAS CI/CD solution. Each solution has its own set of unique security configurations and best practices which are essential for maintaining optimal security posture.
+While usage of Software as a Service (SaaS) CI/CD solutions, rather than their self-hosted alternative, eliminates some of the potential risks associated with system hardening and lateral movement within the network, organizations are still required to be highly diligent in securely configuring their SaaS CI/CD solution. Each solution has its own set of unique security configurations and best practices which are essential for maintaining optimal security posture.
 
 
 ## Impact
