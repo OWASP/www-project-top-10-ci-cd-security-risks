@@ -48,6 +48,7 @@ Credentials are the most sought-after object by adversaries, seeking to use them
 * Ensure secrets that are used in CI/CD systems are scoped in a manner that allows each pipeline and step to have access to only the secrets it requires.
 * Use built-in vendor options or 3rd party tools to prevent secrets from being printed to console outputs of future builds. Ensure all existing outputs do not contain secrets.
 * Verify that secrets are removed from any type of artifact, such as from layers of container images, binaries, or Helm charts.
+* Automated ticket creation based up on detcted leaked secrets. In order to track and monitor rotation of the leaked secrets.
 
 
 ## References
