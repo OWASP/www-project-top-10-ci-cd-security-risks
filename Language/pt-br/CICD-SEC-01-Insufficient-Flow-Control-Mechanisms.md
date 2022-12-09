@@ -12,25 +12,25 @@ Mecanismos de controle de fluxo insuficientes referem-se à capacidade de um inv
 
 ## Descrição
 
-Os fluxos CI/CD são projetados para serem velozes. Um novo código pode ser criado na máquina de um desenvolvedor e chegar à produção em minutos, frequentemente com total confiança na automação e no mínimo envolvimento humano. Vendo que os processos de CI/CD são essencialmente o caminho para os ambientes de produção altamente controlados e protegidos, as organizações introduzem continuamente medidas e controles destinados a garantir que nenhuma entidade (humana ou aplicação) possa enviar código ou artefatos através da pipeline sem ser obrigado a passar por um conjunto rigoroso de revisões e aprovações.
+Os fluxos CI/CD são projetados para serem velozes. Um novo código pode ser criado na máquina de um desenvolvedor e chegar à produção em minutos, frequentemente com total confiança na automação e no mínimo envolvimento humano. Vendo que os processos de CI/CD são essencialmente o caminho para os ambientes de produção altamente controlados e protegidos, as organizações introduzem continuamente medidas e controles destinados a garantir que nenhuma entidade (humana ou aplicação) possa enviar código ou artefatos através do pipeline sem ser obrigado a passar por um conjunto rigoroso de revisões e aprovações.
 
 ## Impacto
 
-Um invasor com acesso ao SCM, CI ou sistemas mais internos da pipeline pode abusar de mecanismos de controle de fluxo insuficientes para implantar ou inserir artefatos maliciosos. Depois de criados, os artefatos são enviados pela pipeline - potencialmente até a produção - sem qualquer aprovação ou revisão. Por exemplo, um atacante pode:
+Um invasor com acesso ao SCM, CI ou sistemas mais internos do pipeline pode abusar de mecanismos de controle de fluxo insuficientes para implantar ou inserir artefatos maliciosos. Depois de criados, os artefatos são enviados pelo pipeline - potencialmente até a produção - sem qualquer aprovação ou revisão. Por exemplo, um atacante pode:
 
 
-* Fazer Push de código para um branch, que é implementado automaticamente através da pipeline no ambiente de produção.
-* Fazer Push de código para um branch, e em seguida, acionar manualmente uma pipeline que envia o código para produção.
+* Fazer Push de código para um branch, que é implementado automaticamente através do pipeline no ambiente de produção.
+* Fazer Push de código para um branch, e em seguida, acionar manualmente um pipeline que envia o código para produção.
 * Fazer push de código diretamente para uma lib, que é usada pelo código em execução em um sistema em produção.
 * Abusar da regra de auto-merge no CI que faz merge automaticamente de pull requests que estão de acordo com um conjunto predefinido de requisitos, dessa forma, embarcando um código não revisado para a produção.
 * Abusar de regras insuficientes de proteção de branch - por exemplo, devido ã exclusão de branches ou usuários específicos para ignorar os controles de segurança da branch e fazer push de código malicioso não revisado.
-* Fazer Upload de um artefato para um repositório, como um pacote ou container, disfarçado de um artefato legítimo criado pelo ambiente de build. Nesse cenário, a falta de controles ou verificações pode fazer com que um artefato seja utilizado por uma pipeline de deploy e implantado na produção.
+* Fazer Upload de um artefato para um repositório, como um pacote ou container, disfarçado de um artefato legítimo criado pelo ambiente de build. Nesse cenário, a falta de controles ou verificações pode fazer com que um artefato seja utilizado por um pipeline de deploy e implantado na produção.
 * Acesse a produção e altere diretamente o código da aplicação ou infraestrutura (por exemplo, uma função Lambda), sem qualquer aprovação/verificação adicional.
 
 
 ## Recomendações
 
-Defina mecanismos de controle de fluxo da pipeline para garantir que nenhuma entidade (humana/programática) seja capaz de enviar códigos e artefatos sensíveis por meio da pipeline sem verificação ou validação externa. Isso pode ser alcançado através da implementação das seguintes medidas:
+Defina mecanismos de controle de fluxo da pipeline para garantir que nenhuma entidade (humana/programática) seja capaz de enviar códigos e artefatos sensíveis por meio do pipeline sem verificação ou validação externa. Isso pode ser alcançado através da implementação das seguintes medidas:
 
 
 
