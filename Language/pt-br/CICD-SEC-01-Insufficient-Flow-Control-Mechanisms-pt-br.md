@@ -34,7 +34,7 @@ Defina mecanismos de controle de fluxo da pipeline para garantir que nenhuma ent
 
 
 
-* Configure regras de proteção de branch nas branches que hospedam os códigos que são usados em produção e em outros --sistemas sensíveis---. Sempre que possível, evite a exclusão de contas de usuário ou branches das regras de proteção de branch. Em contas de usuário recebem permissão para fazer push de código não revisado para um repositório, garanta que essas contas não possuam permissão para executar pipelines de implantação conectados ao repositório em questão.
+* Configure regras de proteção de branch nas branches que hospedam os códigos que são usados em produção e em outros sistemas sensíveis. Sempre que possível, evite a exclusão de contas de usuário ou branches das regras de proteção de branch. Em contas de usuário recebem permissão para fazer push de código não revisado para um repositório, garanta que essas contas não possuam permissão para executar pipelines de implantação conectados ao repositório em questão.
 * Limite o uso de regras de auto-merge automática e garanta que, onde quer que estejam em uso - elas sejam aplicáveis a uma quantidade mínima de contextos. Revise o código de todas as regras de auto-merge automáticas cuidadosamente para garantir que elas não possam ser ignoradas para evitar a importação de código de terceiros no processo de auto-merge.
 * Onde aplicável, evite que contas acionem pipelines de build e de implantação em produção sem aprovação ou revisão adicional.
 * Prefira permitir que os artefatos fluam pelo pipeline apenas na condição de terem sido criados por uma conta de serviço de CI pré-aprovada. Evite que artefatos carregados por outras contas fluam pelo pipeline sem revisão e aprovação secundárias.
