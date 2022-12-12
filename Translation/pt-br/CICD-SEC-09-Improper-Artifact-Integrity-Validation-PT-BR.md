@@ -19,20 +19,20 @@ Se um recurso adulterado conseguiu se infiltrar com sucesso no processo de entre
 
 ## Impacto
 
-A validação inadequada da integridade do artefato pode ser abusada por um adversário com uma posição dentro do processo de entrega de software para enviar um artefato malicioso através do pipeline, resultando na execução de código malicioso - em sistemas dentro do processo de CI/CD ou pior - na produção .
+A validação inadequada da integridade do artefato pode ser abusada por um adversário com uma posição dentro do processo de entrega de software para enviar um artefato malicioso através do pipeline, resultando na execução de código malicioso - em sistemas dentro do processo de CI/CD ou pior - na produção.
 
 
 ## Recomendações
 
-The prevention of improper artifact integrity validation risks requires a collection of measures, across different systems and stages within the software delivery chain. Consider the following controls: 
+A prevenção de riscos de Validação de integridade de artefatos impróprias requer uma coleção de medidas, em diferentes sistemas e estágios dentro da cadeia de entrega de software. Considere os seguintes controles:
 
 
 
-* Implement processes and technologies to validate the integrity of resources all the way from development to production. When a resource is generated, the process will include signing that resource using an external resource signing infrastructure. Prior to consuming the resource in subsequent steps down the pipeline, the resource’s integrity should be validated against the signing authority. Some prevalent measures to consider in this context:
-    * **Code signing** - SCM solutions provide the ability to sign commits using a unique key for each contributor. This measure can then be leveraged to prevent unsigned commits from flowing down the pipeline.
-    * **Artifact verification software** - Usage of tools for signing and verification of code and artifacts provide a way to prevent unverified software from being delivered down the pipeline. An example for such a project is [Sigstore](https://www.sigstore.dev/), created by the Linux Foundation.
-    * **Configuration drift detection** - Measures aimed at detecting configuration drifts (e.g. resources in cloud environments which aren’t managed using a signed IAC template), potentially indicative of resources that were deployed by an untrusted source or process.
-* 3rd party resources fetched from build/deploy pipelines (such as scripts imported and executed as part of the build process) should follow a similar logic - prior to using 3rd party resources, the hash of the resource should be calculated and cross referenced against the official published hash of the resource provider. 
+* Implementar processos e tecnologias para validar a integridade dos recursos desde o desenvolvimento até a produção. Quando um recurso é gerado, o processo incluirá a assinatura desse recurso usando uma infraestrutura de assinatura de recurso externo. Antes de consumir o recurso nas etapas subsequentes do pipeline, a integridade do recurso deve ser validada em relação à autoridade de assinatura. Algumas medidas prevalentes a serem consideradas neste contexto:
+     * **Assinatura de código** - As soluções SCM fornecem a capacidade de assinar confirmações usando uma chave exclusiva para cada contribuidor. Essa medida pode então ser aproveitada para evitar que commits não assinados fluam pelo pipeline.
+     * **Software de verificação de artefato** - O uso de ferramentas para assinatura e verificação de código e artefatos fornece uma maneira de impedir que software não verificado seja entregue no pipeline. Um exemplo desse projeto é o [Sigstore](https://www.sigstore.dev/), criado pela Linux Foundation.
+     * **Detecção de desvio de configuração** - Medidas destinadas a detectar desvios de configuração (por exemplo, recursos em ambientes de nuvem que não são gerenciados usando um modelo IAC assinado), potencialmente indicativos de recursos que foram implantados por uma fonte ou processo não confiável.
+* Recursos de terceiros obtidos de pipelines de build/deploy (como scripts importados e executados como parte do processo de build) devem seguir uma lógica semelhante - antes de usar recursos de terceiros, o hash do recurso deve ser calculado e referenciado em relação ao hash oficial publicado do provedor de recursos.
 
 
 ## Referências

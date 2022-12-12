@@ -41,7 +41,7 @@ Defina mecanismos de controle de fluxo da pipeline para garantir que nenhuma ent
 * Detecte e evite diferenças e inconsistências entre o código em execução na produção e em sua origem no CI/CD e modifique qualquer recurso que contenha esse desvio para garantir consistência.
 
 
-## Referencias
+## Referências
 
 
 

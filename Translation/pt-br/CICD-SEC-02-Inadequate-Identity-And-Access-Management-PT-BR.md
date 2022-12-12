@@ -49,7 +49,7 @@ A existência de centenas (ou às vezes milhares) de identidades - tanto humanas
 * Evite usar contas compartilhadas. Crie contas nomeadas para cada contexto específico e conceda o conjunto exato de permissões necessárias para o contexto em questão.
 
 
-## Referencias
+## Referências
 
 
 
