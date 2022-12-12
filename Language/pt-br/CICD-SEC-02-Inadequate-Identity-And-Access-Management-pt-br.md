@@ -14,7 +14,7 @@ Os riscos de gerenciamento de identidades e controle de acesso inadequados decor
 
 Os processos de entrega de software consistem em vários sistemas conectados entre si com o objetivo de mover o código e os artefatos do desenvolvimento para a produção. Cada sistema fornece multiplos métodos de acesso e de integração (nome de usuário e senha, token de acesso, aplicações de marketplace, aplicativos oauth, plugins, chaves SSH). Os diferentes tipos de contas e métodos de acesso podem ter seu próprio método de provisionamento exclusivo, conjunto de políticas de segurança e modelo de autorização. Essa complexidade cria desafios no gerenciamento de diferentes identidades ao longo de todo o ciclo de vida da identidade e na garantia de que suas permissões estejam alinhadas com o princípio do menor privilégio (Least privilege).
 
-Além disso, em um ambiente típico, a maioria das contas de usuário de um SCM ou CI é altamente permissiva, pois esses sistemas não são tradicionalmente uma área de foco importante para as equipes de segurança. Essas identidades são usadas principalmente por engenheiros que precisam de flexibilidade para criar grandes mudanças no código e na infraestrutura.
+Além disso, em um ambiente típico, a maioria das contas de usuário de um SCM ou CI é altamente permissiva, pois esses sistemas não são tradicionalmente uma área de foco importante para as equipes de segurança. Essas identidades são usadas principalmente por desenvolvedores que precisam de flexibilidade para criar grandes mudanças no código e na infraestrutura.
 
 Algumas das principais preocupações e desafios relacionados ao gerenciamento de identidade e acesso no ecossistema CI/CD incluem:
 
