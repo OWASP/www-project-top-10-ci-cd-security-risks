@@ -34,7 +34,7 @@ Numerous industry experts across multiple verticals and disciplines came togethe
 
 We would like to thank and acknowledge all experts which took part in reviewing and validating this document.
 
-<span style="text-decoration:underline;">List of the top 10 CI/CD security risks:</span>
+# List of the top 10 CI/CD security risks:
 
 [CICD-SEC-1](github.com/erickrazr/www-project-top-10-ci-cd-security-risks/blob/main/CICD-SEC-01-Mecanismos-de-Controle-de-Fluxo-Insuficiente-PT-BR): Mecanismos de Controle de Fluxo Insuficientes
 
