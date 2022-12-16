@@ -57,10 +57,23 @@ We would like to thank and acknowledge all experts which took part in reviewing 
 [CICD-SEC-10](CICD-SEC-10-Insufficient-Logging-And-Visibility): Insufficient Logging and Visibility
 
 
+# Top 10 risks
+Presented below are the top 10 CI/CD security risks. All risks follow a consistent structure - 
+
+* **Definition** - Concise definition of the nature of the risk.
+* **Description** - Detailed explanation of the context and the adversary motivation.
+* **Impact** - Detail around the potential impact the realization of the risk can have on an organization.
+* **Recommendations** - A set of measures and controls recommended for optimizing an organization’s CI/CD posture in relation to the risk in question.
+* **References** - A list of real world examples and precedents in which the risk in question was exploited.
+
+The list was compiled on the basis of extensive research and analysis based on the following sources:
+
+* Analysis of the architecture, design and security posture of hundreds of CI/CD environments across multiple verticals and industries.
+* Profound discussions with industry experts.
+* Publications detailing incidents and security flaws within the CI/CD security domain. Examples are provided where relevant.
+
 
 ## Authors
-
-
 
 * [Daniel Krivelevich](https://twitter.com/Dkrivelev) (CTO @ Cider Security)
 * [Omer Gil](https://twitter.com/omer_gil) (Director of Research @ Cider Security)
@@ -84,17 +97,3 @@ We would like to thank and acknowledge all experts which took part in reviewing 
 * Noa Ginzbursky (DevOps Engineer @ Cider Security)
 * [Asi Greenholts](https://twitter.com/TupleType) (Security Researcher @ Cider Security)
 
-# Top 10 risks
-Presented below are the top 10 CI/CD security risks. All risks follow a consistent structure - 
-
-* **Definition** - Concise definition of the nature of the risk.
-* **Description** - Detailed explanation of the context and the adversary motivation.
-* **Impact** - Detail around the potential impact the realization of the risk can have on an organization.
-* **Recommendations** - A set of measures and controls recommended for optimizing an organization’s CI/CD posture in relation to the risk in question.
-* **References** - A list of real world examples and precedents in which the risk in question was exploited.
-
-The list was compiled on the basis of extensive research and analysis based on the following sources:
-
-* Analysis of the architecture, design and security posture of hundreds of CI/CD environments across multiple verticals and industries.
-* Profound discussions with industry experts.
-* Publications detailing incidents and security flaws within the CI/CD security domain. Examples are provided where relevant.
