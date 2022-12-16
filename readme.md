@@ -36,7 +36,7 @@ We would like to thank and acknowledge all experts which took part in reviewing 
 
 # List of the top 10 CI/CD security risks:
 
-[CICD-SEC-1](github.com/erickrazr/www-project-top-10-ci-cd-security-risks/blob/main/CICD-SEC-01-Mecanismos-de-Controle-de-Fluxo-Insuficiente-PT-BR): Mecanismos de Controle de Fluxo Insuficientes
+[CICD-SEC-1](https://github.com/erickrazr/www-project-top-10-ci-cd-security-risks/blob/main/CICD-SEC-01-Mecanismos-de-Controle-de-Fluxo-Insuficiente-PT-BR.md): Mecanismos de Controle de Fluxo Insuficientes
 
 [CICD-SEC-2](CICD-SEC-02-Inadequate-Identity-And-Access-Management): Inadequate Identity and Access Management
 
