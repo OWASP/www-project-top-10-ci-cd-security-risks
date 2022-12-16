@@ -34,6 +34,30 @@ Numerous industry experts across multiple verticals and disciplines came togethe
 
 We would like to thank and acknowledge all experts which took part in reviewing and validating this document.
 
+<span style="text-decoration:underline;">List of the top 10 CI/CD security risks:</span>
+
+[CICD-SEC-1](github.com/erickrazr/www-project-top-10-ci-cd-security-risks/blob/main/CICD-SEC-01-Mecanismos-de-Controle-de-Fluxo-Insuficiente-PT-BR): Mecanismos de Controle de Fluxo Insuficientes
+
+[CICD-SEC-2](CICD-SEC-02-Inadequate-Identity-And-Access-Management): Inadequate Identity and Access Management
+
+[CICD-SEC-3](CICD-SEC-03-Dependency-Chain-Abuse): Dependency Chain Abuse
+
+[CICD-SEC-4](CICD-SEC-04-Poisoned-Pipeline-Execution): Poisoned Pipeline Execution (PPE)
+
+[CICD-SEC-5](CICD-SEC-05-Insufficient-PBAC): Insufficient PBAC (Pipeline-Based Access Controls)
+
+[CICD-SEC-6](CICD-SEC-06-Insufficient-Credential-Hygiene): Insufficient Credential Hygiene
+
+[CICD-SEC-7](CICD-SEC-07-Insecure-System-Configuration): Insecure System Configuration
+
+[CICD-SEC-8](CICD-SEC-08-Ungoverned-Usage-of-3rd-Party-Services): Ungoverned Usage of 3rd Party Services
+
+[CICD-SEC-9](CICD-SEC-09-Improper-Artifact-Integrity-Validation): Improper Artifact Integrity Validation
+
+[CICD-SEC-10](CICD-SEC-10-Insufficient-Logging-And-Visibility): Insufficient Logging and Visibility
+
+
+
 ## Authors
 
 
@@ -74,25 +98,3 @@ The list was compiled on the basis of extensive research and analysis based on t
 * Analysis of the architecture, design and security posture of hundreds of CI/CD environments across multiple verticals and industries.
 * Profound discussions with industry experts.
 * Publications detailing incidents and security flaws within the CI/CD security domain. Examples are provided where relevant.
-
-<span style="text-decoration:underline;">List of the top 10 CI/CD security risks:</span>
-
-[CICD-SEC-1](github.com/erickrazr/www-project-top-10-ci-cd-security-risks/blob/main/CICD-SEC-01-Mecanismos-de-Controle-de-Fluxo-Insuficiente-PT-BR): Mecanismos de Controle de Fluxo Insuficientes
-
-[CICD-SEC-2](CICD-SEC-02-Inadequate-Identity-And-Access-Management): Inadequate Identity and Access Management
-
-[CICD-SEC-3](CICD-SEC-03-Dependency-Chain-Abuse): Dependency Chain Abuse
-
-[CICD-SEC-4](CICD-SEC-04-Poisoned-Pipeline-Execution): Poisoned Pipeline Execution (PPE)
-
-[CICD-SEC-5](CICD-SEC-05-Insufficient-PBAC): Insufficient PBAC (Pipeline-Based Access Controls)
-
-[CICD-SEC-6](CICD-SEC-06-Insufficient-Credential-Hygiene): Insufficient Credential Hygiene
-
-[CICD-SEC-7](CICD-SEC-07-Insecure-System-Configuration): Insecure System Configuration
-
-[CICD-SEC-8](CICD-SEC-08-Ungoverned-Usage-of-3rd-Party-Services): Ungoverned Usage of 3rd Party Services
-
-[CICD-SEC-9](CICD-SEC-09-Improper-Artifact-Integrity-Validation): Improper Artifact Integrity Validation
-
-[CICD-SEC-10](CICD-SEC-10-Insufficient-Logging-And-Visibility): Insufficient Logging and Visibility
