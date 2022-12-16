@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: "CICD-SEC-1: Insufficient Flow Control Mechanisms"
 redirect_from:
-  - www-project-top-10-ci-cd-security-risks/risks/CICD-SEC-01-Insufficient-Flow-Control-Mechanisms.md
+  - www-project-top-10-ci-cd-security-risks/blob/main/CICD-SEC-01-Mecanismos-de-Controle-de-Fluxo-Insuficiente-PT-BR.md
 
 ---
 ## Definition
