@@ -1,4 +1,4 @@
-#Versão traduzida do Top 10 CI/CD Security Risks para o PORTUGUÊS - BRASIL
+# Versão traduzida do Top 10 CI/CD Security Risks para o PORTUGUÊS - BRASIL
 
 
 ![alt_text](assets/images/risks.png)
