@@ -1,13 +1,3 @@
----
-
-layout: col-sidebar
-title: "OWASP Top 10 CI/CD Security Risks"
-tags: cicd security top10
-level: 2
-type: documentation
-pitch: Top 10 security risks in CI/CD environments.
-
----
 ![alt_text](assets/images/risks.png)
 # Introduction
 
