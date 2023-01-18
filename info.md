@@ -10,7 +10,7 @@
 * [Download](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/raw/3204d6d181e2a5517ffdcbe208fb536b9cc6c50b/assets/OWASP_Top_10_CICD_Risks.pdf)
 
 ### Code Repository
-* [GitHub](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/blob/main/index.md)
+* [GitHub](https://github.com/cider-security-research/top-10-cicd-security-risks)
 
 ### Top 10 CI/CD Security Risks
 - [Return to homepage](/www-project-top-10-ci-cd-security-risks)
