@@ -1,10 +1,16 @@
 ### Top 10 CI-CD Security Risks Information
-[![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
-![Documentation Project][doc-proj-logo]
+* <i class="fas fa-egg" style="font-size: 1.3em; color:#53AAE5;"></i>
+  <span style="font-size: 1.3em;">Incubator Project</span>
 
-[![Builders][builders-logo]][builders]
-[![Breakers][breakers-logo]][breakers]
-[![Defenders][defenders-logo]][defenders]
+#### Classification
+
+* <i class="fas fa-file-alt" style="color:#233e81;"></i> Documentation
+
+#### Audience
+
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### Downloads or Social Links
 * [Download](https://github.com/OWASP/www-project-top-10-ci-cd-security-risks/raw/3204d6d181e2a5517ffdcbe208fb536b9cc6c50b/assets/OWASP_Top_10_CICD_Risks.pdf)
