@@ -5,7 +5,7 @@ title: "OWASP Top 10 CI/CD Security Risks"
 tags: cicd security top10
 level: 3
 type: documentation
-pitch: Top 10 security risks in CI/CD environments.
+pitch: OWASP Top 10 CI/CD Security Risks project helps defenders identify focus areas for securing their CI/CD ecosystem.
 
 ---
 ![alt_text](assets/images/risks.png)
