@@ -1,6 +1,6 @@
 ### Top 10 CI-CD Security Risks Information
-* <i class="fas fa-egg" style="font-size: 1.3em; color:#53AAE5;"></i>
-  <span style="font-size: 1.3em;">Incubator Project</span>
+* <i class="fas fa-flask" style="font-size: 1.3em; color:#f7b73c;"></i>
+  <span style="font-size: 1.3em;">Lab Project</span>
 
 #### Classification
 
