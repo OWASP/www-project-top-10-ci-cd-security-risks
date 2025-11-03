@@ -1,0 +1,35 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Daniel Krivelevich
+    email: daniel@cidersecurity.io
+    github: daniel-cider
+  - name: Omer Gil
+    email: omer.gil@owasp.org
+    github: omer-cider
+  - name: Ory Segal
+    email: ory.segal@owasp.org
+    github: oorryy
+level: 3
+license:
+  - Apache-2.0
+  - CC-BY-SA-4.0
+name: OWASP Top 10 CI/CD Security Risks
+pitch: OWASP Top 10 CI/CD Security Risks project helps defenders identify focus areas for securing their CI/CD ecosystem.
+repositories:
+  - name: www-project-top-10-ci-cd-security-risks
+    url: https://github.com/OWASP/www-project-top-10-ci-cd-security-risks
+    description: OWASP Foundation Web Repository
+  - name: cicd-goat
+    url: https://github.com/cider-security-research/cicd-goat
+    description: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
+  - name: top-10-cicd-security-risks
+    url: https://github.com/cider-security-research/top-10-cicd-security-risks
+tags:
+  - cicd
+  - security
+  - top10
+type: documentation
+website: https://owasp.org/www-project-top-10-ci-cd-security-risks
